@@ -12,6 +12,17 @@
 		FAAF5BE521033CBD00DFE771 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BE321033CBD00DFE771 /* Main.storyboard */; };
 		FAAF5BE721033CBE00DFE771 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BE621033CBE00DFE771 /* Assets.xcassets */; };
 		FAAF5BEA21033CBE00DFE771 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BE821033CBE00DFE771 /* LaunchScreen.storyboard */; };
+		FAAF5BFD21033F0E00DFE771 /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF221033F0E00DFE771 /* Icon-40@2x.png */; };
+		FAAF5BFE21033F0E00DFE771 /* Icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF321033F0E00DFE771 /* Icon-40@3x.png */; };
+		FAAF5BFF21033F0E00DFE771 /* Icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF421033F0E00DFE771 /* Icon-60@3x.png */; };
+		FAAF5C0021033F0E00DFE771 /* Icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF521033F0E00DFE771 /* Icon-29@2x.png */; };
+		FAAF5C0121033F0E00DFE771 /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF621033F0E00DFE771 /* Icon-1024.png */; };
+		FAAF5C0221033F0E00DFE771 /* Icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF721033F0E00DFE771 /* Icon-29@3x.png */; };
+		FAAF5C0321033F0E00DFE771 /* Icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF821033F0E00DFE771 /* Icon-60@2x.png */; };
+		FAAF5C0421033F0E00DFE771 /* Icon-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BF921033F0E00DFE771 /* Icon-20@3x.png */; };
+		FAAF5C0521033F0E00DFE771 /* diamond@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BFA21033F0E00DFE771 /* diamond@2x.png */; };
+		FAAF5C0621033F0E00DFE771 /* Icon-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BFB21033F0E00DFE771 /* Icon-20@2x.png */; };
+		FAAF5C0721033F0E00DFE771 /* _DS_Store in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5BFC21033F0E00DFE771 /* _DS_Store */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		FAAF5BE621033CBE00DFE771 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAAF5BE921033CBE00DFE771 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAAF5BEB21033CBE00DFE771 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAAF5BF221033F0E00DFE771 /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		FAAF5BF321033F0E00DFE771 /* Icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@3x.png"; sourceTree = "<group>"; };
+		FAAF5BF421033F0E00DFE771 /* Icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@3x.png"; sourceTree = "<group>"; };
+		FAAF5BF521033F0E00DFE771 /* Icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@2x.png"; sourceTree = "<group>"; };
+		FAAF5BF621033F0E00DFE771 /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-1024.png"; sourceTree = "<group>"; };
+		FAAF5BF721033F0E00DFE771 /* Icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-29@3x.png"; sourceTree = "<group>"; };
+		FAAF5BF821033F0E00DFE771 /* Icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60@2x.png"; sourceTree = "<group>"; };
+		FAAF5BF921033F0E00DFE771 /* Icon-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-20@3x.png"; sourceTree = "<group>"; };
+		FAAF5BFA21033F0E00DFE771 /* diamond@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "diamond@2x.png"; sourceTree = "<group>"; };
+		FAAF5BFB21033F0E00DFE771 /* Icon-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-20@2x.png"; sourceTree = "<group>"; };
+		FAAF5BFC21033F0E00DFE771 /* _DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = _DS_Store; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +62,7 @@
 			children = (
 				FAAF5BDE21033CBD00DFE771 /* I am rich */,
 				FAAF5BDD21033CBD00DFE771 /* Products */,
+				FAAF5BF121033F0E00DFE771 /* I am Rich Image Assets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +85,24 @@
 				FAAF5BEB21033CBE00DFE771 /* Info.plist */,
 			);
 			path = "I am rich";
+			sourceTree = "<group>";
+		};
+		FAAF5BF121033F0E00DFE771 /* I am Rich Image Assets */ = {
+			isa = PBXGroup;
+			children = (
+				FAAF5BF221033F0E00DFE771 /* Icon-40@2x.png */,
+				FAAF5BF321033F0E00DFE771 /* Icon-40@3x.png */,
+				FAAF5BF421033F0E00DFE771 /* Icon-60@3x.png */,
+				FAAF5BF521033F0E00DFE771 /* Icon-29@2x.png */,
+				FAAF5BF621033F0E00DFE771 /* Icon-1024.png */,
+				FAAF5BF821033F0E00DFE771 /* Icon-60@2x.png */,
+				FAAF5BF721033F0E00DFE771 /* Icon-29@3x.png */,
+				FAAF5BF921033F0E00DFE771 /* Icon-20@3x.png */,
+				FAAF5BFA21033F0E00DFE771 /* diamond@2x.png */,
+				FAAF5BFB21033F0E00DFE771 /* Icon-20@2x.png */,
+				FAAF5BFC21033F0E00DFE771 /* _DS_Store */,
+			);
+			path = "I am Rich Image Assets";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +163,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAAF5C0021033F0E00DFE771 /* Icon-29@2x.png in Resources */,
+				FAAF5C0321033F0E00DFE771 /* Icon-60@2x.png in Resources */,
+				FAAF5BFF21033F0E00DFE771 /* Icon-60@3x.png in Resources */,
+				FAAF5C0621033F0E00DFE771 /* Icon-20@2x.png in Resources */,
+				FAAF5C0221033F0E00DFE771 /* Icon-29@3x.png in Resources */,
 				FAAF5BEA21033CBE00DFE771 /* LaunchScreen.storyboard in Resources */,
+				FAAF5BFD21033F0E00DFE771 /* Icon-40@2x.png in Resources */,
 				FAAF5BE721033CBE00DFE771 /* Assets.xcassets in Resources */,
+				FAAF5C0121033F0E00DFE771 /* Icon-1024.png in Resources */,
 				FAAF5BE521033CBD00DFE771 /* Main.storyboard in Resources */,
+				FAAF5BFE21033F0E00DFE771 /* Icon-40@3x.png in Resources */,
+				FAAF5C0421033F0E00DFE771 /* Icon-20@3x.png in Resources */,
+				FAAF5C0521033F0E00DFE771 /* diamond@2x.png in Resources */,
+				FAAF5C0721033F0E00DFE771 /* _DS_Store in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,7 +342,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.IsaacSheikh.I-am-rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -308,7 +360,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.IsaacSheikh.I-am-rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
