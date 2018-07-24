@@ -3,7 +3,6 @@
 //  I am rich
 //
 //  Created by Isaac Sheikh on 7/21/18.
-//  Copyright © 2018 IsaacSheikh. All rights reserved.
 //
 
 import UIKit
